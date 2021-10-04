@@ -8,7 +8,7 @@
 
 <ul>
   <li>Powerframe - A small yet powerfull framework in PHP to create rest API's (PHP)</li>
-  <li>SaveYourWallet - Offline application to control your finances in a simples way. (Vue.js 2, Electron, TypeScript)</li>
+  <li>SaveYourWallet - Application to control your finances in a simples way. (Vue.js 2, Electron, TypeScript)</li>
   <li>Great Tavern - A web service to play table top RPG with your friends (Vue.js 2, TypeScript, Node)</li>
   <li>Time Watcher - Application to control and watch the time you spend on everything (C++)</li>
   <li>Gamificated Todo List - Offline todo list game (Vue.js 2, TypeScript, Electron)</li>
