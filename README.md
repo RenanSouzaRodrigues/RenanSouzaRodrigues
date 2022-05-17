@@ -3,7 +3,11 @@
 
 <p>
   I'm a software developer since 2010 and game developer since 2019, focused on back-end development with PHP, JavaScript, TypeScript, C#, Python and Java. Also working with game development with engines like Unity and Unreal. 
-  Founder of a company called Power Push - Powering Ideias and my own game studio called Dallai Studios 
+  Founder of a company called Power Push - Powering Ideias and my own game studio called Dallai Studios. 
+</p>
+
+<p>
+  I'm currently working as a Tech Lead on Vá de Taxi, a Braziliam mobility app and as a CTO for Mage Studios, one of the most incredible game studios in Brazil.
 </p>
 
 <!--!### My creations and ways to help
