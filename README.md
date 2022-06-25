@@ -7,7 +7,7 @@
 </p>
 
 <p>
-  I'm currently working as a Tech Lead on Vá de Taxi, a Brazilian mobility app and as a CTO for Mage Studios, one of the most incredible game studios in Brazil.
+  I'm currently working as a Software Engineer at <a href="https://www.trio.dev/">Trio.dev</a> and as a CTO for Mage Studios, one of the most incredible game studios in Brazil.
 </p>
 
 <!--!### My creations and ways to help
