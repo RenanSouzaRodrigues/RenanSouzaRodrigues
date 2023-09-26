@@ -2,7 +2,7 @@
 <h3>Welcome to my Git Hub page. My name is Renan Souza Rodrigues, aka Dallai to my friends.</h3>
 
 <p>
-  I'm a software engineer since 2010 and game developer since 2019, focused on back-end development with PHP, JavaScript, TypeScript, C#, Python and Java. Also working with game development with engines like Unity and Unreal. 
+  I'm a software engineer since 2010 and game developer since 2019, using languages like PHP, JavaScript, TypeScript, C#, Python and Java on the back-end, and frameworks like Vue and Angular on the front-end. Also working with game development with engines like Unity and Unreal. 
   Founder of a company called Power Push - Powering Ideias and my own game studio called Dallai Studios. 
 </p>
 
