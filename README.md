@@ -7,7 +7,7 @@
 </p>
 
 <p>
-  I'm currently working as a Senior Software Engineer at <a href="https://www.buspay.com.br">Bus pay</a> and as a CTO for Mage Studios, one of the most incredible game studios in Brazil.
+  I'm currently working as a Senior Software Engineer at <a href="https://www.buspay.com.br">Bus pay</a> and on my own projects like Power Push and Dallai Studios.
 </p>
 
 <!--!### My creations and ways to help
