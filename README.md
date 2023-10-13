@@ -10,6 +10,10 @@
   I'm currently working as a Senior Software Engineer at <a href="https://www.buspay.com.br">Bus pay</a> and on my own projects like Power Push and Dallai Studios.
 </p>
 
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RenanSouzaRodrigues)](https://github.com/anuraghazra/github-readme-stats)
+
+[Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RenanSouzaRodrigues)
+
 <!--!### My creations and ways to help
 <!--![Powerframe V2](https://github-readme-stats.vercel.app/api/pin/?username=renansouzarodrigues&repo=powerframev2&theme=vue)
 <!--![Markdown Preview](https://github-readme-stats.vercel.app/api/pin/?username=renansouzarodrigues&repo=markdown-preview&theme=vue)
