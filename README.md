@@ -46,9 +46,6 @@
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RenanSouzaRodrigues&layout=compact)](http://powerpush.com.br)
-
 <!--!### My creations and ways to help
 <!--![Powerframe V2](https://github-readme-stats.vercel.app/api/pin/?username=renansouzarodrigues&repo=powerframev2&theme=vue)
 <!--![Markdown Preview](https://github-readme-stats.vercel.app/api/pin/?username=renansouzarodrigues&repo=markdown-preview&theme=vue)
